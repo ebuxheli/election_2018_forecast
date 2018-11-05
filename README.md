@@ -1,9 +1,12 @@
-# election_2018_forecast
+# 2018 General Elections
+### Enxhi Buxheli
 
 * Republicans will keep both the Senate and the House
   - Republicans will hold 53 seats in the Senate
   - Republicans will hold 218 seats in the House
 
-I believe that while there may have been a great movement in the Democratic party to push for more young voters to go out and vote in the midterms that there will not be enough power behind it to swing the power from a GOP majority in both the House and the Senate. Trump has been actively campaigning throughout his time as presidency and going to states throughout the country trying to win over voters, and I think that he has done a good job of convincing these people to go out to vote. Additionally, the Democrats have to overcome the fact that they must overturn seats from incumbents in order to gain the majority in the House. 
+While there may have been a great movement by the Democratic party to motivate younger voters to go out and cast their ballots, it won't be enough to swing either the House or Senate away from a GOP majority. The polling data currently being used for election predictions has been misleading as it currently shows a Democratic House of Representatives win and will be turned on its head when the silent Republicans go out to place their votes. 
 
-Trump's campaigning in vital swing states such as Florida, Missouri, and West Virginia will result in the Republican party holding on to their current seats in the House and Senate.
+Trump has been actively campaigning during his presidency for GOP candidates as he tries to improve his approval ratings and win over voters across the country. Trump, as the figurehead of the Republican party, has been doing his part to uphold his campaign promises. The economy has been doing well, unemployment is low, and there have been tax cuts implemented which means that voters are more likely to be satisfied with the current leadership. 
+
+Democrats face the uphill battle of overturning Republican incumbent seats in the Senate and the battle for the House seems like it will be a close one. Trump's campaigning in key toss-up states such as Florida, Missouri, and West Virginia just might be enough to ensure that the Republicans can hold on to power for the remainder of his term.
